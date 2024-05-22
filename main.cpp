@@ -569,10 +569,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 
 			//↑ゲームループここから
-			
-			
-			
-			//↑描画処理ここから
 		}
 	}
 	OutputDebugStringA("Hello,DirectX!\n");
